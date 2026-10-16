@@ -308,17 +308,6 @@ All API endpoints are prefixed with `/api`. Authentication is via `Bearer <token
 
 ---
 
-## 👤 Demo Accounts
-
-After running `npm run seed`, you can log in with these accounts:
-
-| Role        | Email                        | Password       |
-| ----------- | ---------------------------- | -------------- |
-| Generator   | `priyanshi@wastetrace.com`   | `password123`  |
-| Recycler    | `greenbuild@wastetrace.com`  | `password123`  |
-
----
-
 ## 🌿 Green Credit Formula
 
 The platform uses a multi-factor formula to calculate Green Credits for each waste load:
